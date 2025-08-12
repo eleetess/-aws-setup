@@ -26,7 +26,7 @@ DynamoDB supports **key–value** and **document** data models, and even offers 
 - **Multi-region apps** – Global, low-latency user experiences.
 
 ## Key Insight
-> DynamoDB’s on-demand mode can **scale to zero**, meaning you only pay when your tables are used—perfect for unpredictable or bursty workloads.
+> DynamoDB’s on-demand mode can **scale to zero**, meaning you only pay when your tables are used—perfect for unpredictable or bursty workloads.( It’s built to handle huge amounts of data and traffic quickly, without slowing down, even as your app grows to millions of users.)
 
 # One Key Insight
 - It’s surprising how DynamoDB offers true "scale-to-zero" capability in its on-demand mode—letting you pay only when your table is being used, with no cold-start delays or maintenance windows.
